@@ -43,6 +43,7 @@ main {
 .code-html {
     padding: 25px;
     flex-grow: 1;
+    flex-basis: 0;
     background: #424242;
     color: #fff;
     border-bottom-left-radius: 20px;
