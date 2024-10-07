@@ -1,9 +1,9 @@
 body {
     background: #fff;
-    font-family: Helvetica, sans-serif;
+    font-family: Helvetica;
     border-top: 15px solid #424242;
     margin: 0 auto;
-    color: #424242;
+    color: #000000;
 }
 main {
     margin: 0 auto;
@@ -58,4 +58,16 @@ h1{
     font-size: 3em;
     padding-left: 55px;
     margin: 100px 0 25px 0;
+}
+
+h2{
+    font-weight: bold;
+    padding-left: 55px;
+    margin: 100px 0 25px 0;
+    color: #000000;
+}
+
+p{
+    margin: 0;
+    line-height: 1.4em;
 }
