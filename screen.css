@@ -22,6 +22,7 @@ main {
     flex-grow: 1;
     flex-basis: 0;
     background: #E9EAEC;
+    padding: 25px;
     border-radius: 20px;
     margin-top: 25px;
     color: #000000;
