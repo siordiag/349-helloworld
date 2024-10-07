@@ -42,6 +42,7 @@ div.code-html {
     padding: 25px;
     background: #424242;
     color: #fff;
+    font-family: 'Courier New', Courier, monospace;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
 }
