@@ -32,6 +32,8 @@ main {
 }
 .details section h2 {
     font-weight: bold;
+    line-height: 26px;
+    font-size: 32px;
     margin: 25px;
 }
 .with-code{
@@ -65,4 +67,5 @@ h1{
 p{
     margin: 0;
     line-height: 1.4em;
+    font-size: 18px;
 }
