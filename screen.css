@@ -4,6 +4,7 @@ body {
     border-top: 15px solid #424242;
     margin: 0 auto;
     color: #000000;
+    line-height: 26px;
 }
 main {
     margin: 0 auto;
@@ -19,26 +20,29 @@ main {
     display: flex;
     gap: 25px;
 }
-.details section {
+.details section h2 {
     flex-grow: 1;
     flex-basis: 0;
     background: #E9EAEC;
     border-radius: 20px;
     margin-top: 25px;
+    font-weight: bold;
+    padding-left: 55px;
+    margin: 25px;
+    color: #000000;
 }
 .details section p {
     margin: 25px;
 }
-.details section h2 {
+
+.with-code{
     padding: 0;
+    margin: 25px;
 }
-.details section.with-code{
-    padding: 0;
-}
-div.code-copy {
+.code-copy {
     padding: 25px;
 }
-div.code-html {
+.code-html {
     padding: 25px;
     background: #424242;
     color: #fff;
@@ -58,13 +62,6 @@ h1{
     font-size: 3em;
     padding-left: 55px;
     margin: 100px 0 25px 0;
-}
-
-h2{
-    font-weight: bold;
-    padding-left: 55px;
-    margin: 100px 0 25px 0;
-    color: #000000;
 }
 
 p{
