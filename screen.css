@@ -25,16 +25,13 @@ main {
     background: #E9EAEC;
     border-radius: 20px;
     margin-top: 25px;
-    font-weight: bold;
-    padding-left: 55px;
-    padding: 25px;
-    margin: 25px;
     color: #000000;
 }
 .details section p {
     margin: 25px;
 }
 .details section h2 {
+    font-weight: bold;
     padding-left: 55px;
     margin: 25px;
 }
